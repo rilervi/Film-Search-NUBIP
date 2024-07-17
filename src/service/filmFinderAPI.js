@@ -2,7 +2,6 @@ import axios from 'axios';
 
 const contactsInstance = axios.create({
   baseURL: 'https://filmfinder-rest-api.onrender.com/',
-  // baseURL: 'http://localhost:6969/',
 });
 
 export const setToken = token => {
