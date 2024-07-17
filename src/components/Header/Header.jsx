@@ -33,7 +33,7 @@ const Header = () => {
   return (
     <StyledHeared>
       <Logo to={'/'}>
-        <Acsent>Film</Acsent>Finder
+        <Acsent>Film</Acsent>SearchNUBIP
       </Logo>
       <StyledNav>
         <NavLink to={'/'} className="header-link" onClick={reset}>
