@@ -11,7 +11,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/FilmFinder-V1">
+      <BrowserRouter basename="/Film-Search-NUBIP">
         <PersistGate persistor={persistor}>
           <App />
         </PersistGate>
