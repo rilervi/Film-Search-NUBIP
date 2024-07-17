@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Film-Search-NUBIP/static/css/main.4840469b.css",
-    "main.js": "/Film-Search-NUBIP/static/js/main.99065acc.js",
+    "main.js": "/Film-Search-NUBIP/static/js/main.acea07e8.js",
     "static/js/471.9859ce85.chunk.js": "/Film-Search-NUBIP/static/js/471.9859ce85.chunk.js",
     "static/js/382.94959f7b.chunk.js": "/Film-Search-NUBIP/static/js/382.94959f7b.chunk.js",
     "static/css/546.53036aaa.chunk.css": "/Film-Search-NUBIP/static/css/546.53036aaa.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/316.a71032c2.chunk.js": "/Film-Search-NUBIP/static/js/316.a71032c2.chunk.js",
     "index.html": "/Film-Search-NUBIP/index.html",
     "main.4840469b.css.map": "/Film-Search-NUBIP/static/css/main.4840469b.css.map",
-    "main.99065acc.js.map": "/Film-Search-NUBIP/static/js/main.99065acc.js.map",
+    "main.acea07e8.js.map": "/Film-Search-NUBIP/static/js/main.acea07e8.js.map",
     "471.9859ce85.chunk.js.map": "/Film-Search-NUBIP/static/js/471.9859ce85.chunk.js.map",
     "382.94959f7b.chunk.js.map": "/Film-Search-NUBIP/static/js/382.94959f7b.chunk.js.map",
     "546.53036aaa.chunk.css.map": "/Film-Search-NUBIP/static/css/546.53036aaa.chunk.css.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.4840469b.css",
-    "static/js/main.99065acc.js"
+    "static/js/main.acea07e8.js"
   ]
 }
